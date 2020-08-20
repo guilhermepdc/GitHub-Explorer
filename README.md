@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#rocket-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-License">License</a>
 </p>
@@ -37,7 +37,7 @@ This project was developed with the following technologies:
 
 Github-Explorer is a project to consult Github repositories in a simple, easy, detailed and beautiful way.
 
-## Installation
+## 💻 Installation
 
 First of all, you may clone this repo 
 
